@@ -4,7 +4,7 @@ Hey! I'm Chrstphr
 <!---Github Stat--->
 ![Chrstphr's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrstphr9&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrstphr9&layout=compact)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=chrstphr9)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Chrstphr&theme=synthwave)](https://git.io/streak-stats)
 
 Tech Stacks
 <div align="center">
