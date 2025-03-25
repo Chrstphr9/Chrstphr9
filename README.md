@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @Chrstphr_21
-- 👀 I’m interested in ...frontend development 
-- 🌱 I’m currently learning ...javascript,react.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - somto565@gmail.com
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Frontend+developer;)](https://git.io/typing-svg)
 <!---
 Chrstphr9/Chrstphr9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
